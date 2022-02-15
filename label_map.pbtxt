@@ -1,0 +1,34 @@
+item {
+    id: 1
+    name: 'Speed Limit 30'
+}
+
+item {
+    id: 2
+    name: 'Speed Limit 50'
+}
+
+item {
+    id: 3
+    name: 'Speed Limit 60'
+}
+
+item {
+    id: 4
+    name: 'Speed Limit 70'
+}
+
+item {
+    id: 5
+    name: 'Speed Limit 80'
+}
+
+item {
+    id: 6
+    name: 'Speed Limit 100'
+}
+
+item {
+    id: 7
+    name: 'Speed Limit 120'
+}
